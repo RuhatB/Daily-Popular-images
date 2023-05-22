@@ -59,7 +59,7 @@ body {
 
 #### SearchForm Structure
 
-Create a form with an input and a submit button. The input should have the following attributes: type='text', name='search', placeholder='cat', and className='form-input search-input'. When the user submits the form, access (for now log)the input value.
+Create a form with an input and a submit button. The input should have the following attributes: type='text', name='search', placeholder='car', and className='form-input search-input'. When the user submits the form, access (for now log)the input value.
 
 
 
